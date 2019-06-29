@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>wenqiang-mybatis</artifactId>
+    <artifactId>wenqiang-mybatis-framework</artifactId>
 
 
 </project>
