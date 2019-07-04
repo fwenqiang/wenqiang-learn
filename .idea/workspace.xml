@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d300220c-e0a0-4a6b-bb1c-2953b384345f" name="Default Changelist" comment="" />
+    <list default="true" id="d300220c-e0a0-4a6b-bb1c-2953b384345f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-servlet/web/index.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/wenqiang-mybatis/target/" />
@@ -46,8 +48,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wenqiang-servlet/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state>
               <folding>
                 <element signature="e#419#425#0#HTML" expanded="true" />
               </folding>
@@ -489,12 +490,12 @@
       <workItem from="1562194683720" duration="3981000" />
       <workItem from="1562198773548" duration="6712000" />
       <workItem from="1562211237753" duration="7416000" />
-      <workItem from="1562223013091" duration="1045000" />
+      <workItem from="1562223013091" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70832000" />
+    <option name="totallyTimeSpent" value="70855000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1050,8 +1051,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wenqiang-servlet/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state>
           <folding>
             <element signature="e#419#425#0#HTML" expanded="true" />
           </folding>
