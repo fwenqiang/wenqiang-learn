@@ -1,4 +1,5 @@
 package com.wq.mybatis;
 
-public class SqlSessionFactory {
+public interface SqlSessionFactory {
+     SqlSession openSession();
 }

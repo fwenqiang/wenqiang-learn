@@ -1,10 +1,13 @@
 package com.wq.mybatis.impl;
 
 import com.wq.mybatis.SqlSession;
+import com.wq.mybatis.SqlSessionFactory;
 
 import java.util.List;
 
 public class DefaultSqlSession implements SqlSession {
+
+    private SqlSessionFactory sqlSessionFactory;
 
     public <T> T findOne(String sqlId, Object params) {
         return null;
