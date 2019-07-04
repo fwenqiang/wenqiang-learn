@@ -7,95 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d300220c-e0a0-4a6b-bb1c-2953b384345f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wenqiang_servlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/wenqiang-learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-collection/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-collection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-collection/src/main/java/com/wq/collection/collection/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-collection/src/main/java/com/wq/collection/collection/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-collection/wenqiang-collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/builder/KFCWaiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/builder/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/builder/MealA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/builder/MealB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/builder/MealBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/builder/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/connectionPool/ConnectorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/connectionPool/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/connectionPool/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/connectionPool/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/AK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/AK_Bullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/AK_Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/Bullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/Gun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/M3A1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/M3A1_Bullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/M3A1_Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/abstractFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/factoryMethod/CircleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/factoryMethod/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/factoryMethod/RectangleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/factoryMethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/simpleFactory/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/simpleFactory/SimpleFactory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/factory/simpleFactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/prototype/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/prototype/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/single/SinglePattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/single/SinglePattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/src/main/java/com/wenqiang/design/pattern/single/SinglePattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-design-patterns/wenqiang-design-patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/config/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/config/XMLConfigParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/config/XMLMapperParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/entity/MappedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/impl/DefaultSqlSessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/utils/DocumentReaderUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/InitContexLoaderListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/controller/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/util/ConnectorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/commons-dbcp2-2.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/commons-pool2-2.6.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/dom4j-1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/jaxen-1.1-beta-6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/login/failed.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/web/login/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-servlet/wenqiang-servlet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-learn.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/SqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/SqlSessionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/impl/DefaultSqlSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/impl/DefaultSqlSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/java/com/wq/mybatis/WenqiangMybatisTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/java/com/wq/mybatis/WenqiangMybatisTestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-servlet/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -124,11 +36,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wenqiang-servlet/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wenqiang-servlet/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#419#425#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,7 +104,6 @@
         <option value="$PROJECT_DIR$/wenqiang-collection/src/main/java/com/wq/collection/collection/HashSetTest.java" />
         <option value="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/wenqiang-servlet/web/user.jsp" />
-        <option value="$PROJECT_DIR$/wenqiang-servlet/web/index.jsp" />
         <option value="$PROJECT_DIR$/wenqiang-servlet/web/login/success.jsp" />
         <option value="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/domain/User.java" />
         <option value="$PROJECT_DIR$/wenqiang-servlet/web/login/failed.jsp" />
@@ -206,6 +128,7 @@
         <option value="$PROJECT_DIR$/wenqiang-mybatis-framework/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/wenqiang-servlet/.gitignore" />
+        <option value="$PROJECT_DIR$/wenqiang-servlet/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -313,11 +236,6 @@
             <path>
               <item name="wenqiang-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="wenqiang-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="wenqiang-mybatis-framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wenqiang-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wenqiang-learn" type="462c0819:PsiDirectoryNode" />
               <item name="wenqiang-servlet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -352,8 +270,10 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.wq.servlet.domain" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaspace\wenqiang-learn\wenqiang-servlet\web\WEB-INF\lib" />
+      <recent name="E:\ideaspace\wenqiang-learn\wenqiang-servlet\web\login" />
+      <recent name="E:\ideaspace\wenqiang-learn\wenqiang-design-patterns\src\main\java\com\wenqiang\design\pattern\factory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.wq.servlet.util" />
@@ -362,10 +282,8 @@
       <recent name="com.wenqiang.design.pattern.single" />
       <recent name="com.wq.mybatis.impl" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\ideaspace\wenqiang-learn\wenqiang-servlet\web\WEB-INF\lib" />
-      <recent name="E:\ideaspace\wenqiang-learn\wenqiang-servlet\web\login" />
-      <recent name="E:\ideaspace\wenqiang-learn\wenqiang-design-patterns\src\main\java\com\wenqiang\design\pattern\factory" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wq.servlet.domain" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -572,12 +490,12 @@
       <workItem from="1562194683720" duration="3981000" />
       <workItem from="1562198773548" duration="6712000" />
       <workItem from="1562211237753" duration="7416000" />
-      <workItem from="1562223013091" duration="745000" />
+      <workItem from="1562223013091" duration="1012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70532000" />
+    <option name="totallyTimeSpent" value="70799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -593,7 +511,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.70307165" visible="true" weight="0.23454158" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.70307165" visible="true" weight="0.23454158" />
       <window_info id="Structure" order="2" sideWeight="0.29692832" side_tool="true" weight="0.23187633" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -611,7 +529,7 @@
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.93070364" visible="true" weight="0.54013014" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.93070364" visible="true" weight="0.54013014" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.069296375" side_tool="true" visible="true" weight="0.54013014" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
@@ -925,13 +843,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-servlet/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.21/tomcat-embed-core-9.0.21.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -1135,6 +1046,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-servlet/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#419#425#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
