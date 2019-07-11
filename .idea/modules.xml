@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wenqiang-servlet2/wenqiang-servlet2.iml" filepath="$PROJECT_DIR$/wenqiang-servlet2/wenqiang-servlet2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wenqiang-servlet/wenqiang-servlet.iml" filepath="$PROJECT_DIR$/wenqiang-servlet/wenqiang-servlet.iml" />
     </modules>
   </component>
 </project>

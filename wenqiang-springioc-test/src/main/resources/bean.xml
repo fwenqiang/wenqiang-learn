@@ -1,0 +1,13 @@
+<beans>
+   <bean id="student" class="com.wq.springioc.bean.Student">
+       　<constructor-arg index="0" value="范文强"></constructor-arg>
+       　<constructor-arg index="1" value="男"></constructor-arg>
+
+         <property name="course" ref="course"></property>
+   </bean>
+
+    <bean id="course" class="com.wq.springioc.bean.Course" init-method="init">
+        <property name="courseName" value="英语"></property>
+        <property name="teacherName" value="方梦圆"></property>
+    </bean>
+</beans>

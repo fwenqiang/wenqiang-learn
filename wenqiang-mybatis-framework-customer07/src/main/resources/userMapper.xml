@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- mapper 为根元素节点， 一个namespace对应一个dao -->
+<mapper namespace="test">
+   <select id="findUserById" parameterType="java.lang.Integer" resultType="com.wq.mybatis.domain.User">
+      SELECT * FROM user WHERE id = #{id}
+</select>
+</mapper>
