@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wq</groupId>
-    <artifactId>wenqiang-mybatis-test</artifactId>
+    <artifactId>wenqiang-mybatis-framework-customer07</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>wenqiang-mybatis-test</name>
-    <description>wenqiang-mybatis-test</description>
+    <name>wenqiang-mybatis-framework-customer07</name>
+    <description>wenqiang-mybatis-framework-customer07</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -31,17 +31,28 @@
         </dependency>
 
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.wq</groupId>
-            <artifactId>wenqiang-mybatis-framework-customer07</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.46</version>
         </dependency>
 
+        <dependency>
+            <groupId>commons-dbcp</groupId>
+            <artifactId>commons-dbcp</artifactId>
+            <version>1.4</version>
+        </dependency>
+
+        <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>1.6</version>
+        </dependency>
+
+        <dependency>
+            <groupId>jaxen</groupId>
+            <artifactId>jaxen</artifactId>
+            <version>1.1.6</version>
+        </dependency>
 
     </dependencies>
 

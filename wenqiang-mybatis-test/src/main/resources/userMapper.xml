@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//ibatis.apache.org//DTD Mapper 3.0//EN"
+        "http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd">
+
+<!-- mapper 为根元素节点， 一个namespace对应一个dao -->
+<mapper namespace="test">
+   <select id="findUserById" parameterType="com.wq.mybatis.domain.User" resultType="com.wq.mybatis.domain.User" statementType="prepared">
+      SELECT * FROM user WHERE id = #{id}
+</select>
+</mapper>

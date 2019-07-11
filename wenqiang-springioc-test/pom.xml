@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wq</groupId>
-    <artifactId>wenqiang-mybatis-test</artifactId>
+    <artifactId>wenqiang-springioc-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>wenqiang-mybatis-test</name>
-    <description>wenqiang-mybatis-test</description>
+    <name>wenqiang-springioc-test</name>
+    <description>wenqiang-springioc-test</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -31,18 +31,10 @@
         </dependency>
 
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>com.wq</groupId>
-            <artifactId>wenqiang-mybatis-framework-customer07</artifactId>
+            <artifactId>wenqiang-springioc-framework-customer07</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
-
-
     </dependencies>
 
     <build>
