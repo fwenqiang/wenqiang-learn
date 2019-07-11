@@ -10,5 +10,9 @@
         <module name="wenqiang-mybatis-test" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wenqiang-servlet" target="1.7" />
+      <module name="wenqiang-servlet2" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
