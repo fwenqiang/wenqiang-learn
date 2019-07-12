@@ -1,4 +1,4 @@
-package com.wq.mybatis.sqlsession;
+package com.wq.mybatis.framework.sqlsession;
 
 import java.util.List;
 

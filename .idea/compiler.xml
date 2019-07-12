@@ -7,7 +7,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="wenqiang-collection" />
         <module name="wenqiang-datastructure" />
         <module name="wenqiang-design-patterns" />
         <module name="wenqiang-mybatis-framework-customer07" />
@@ -17,16 +16,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="demo" target="1.8" />
+      <module name="wenqiang-collection" target="1.5" />
       <module name="wenqiang-mybatis-framework-customer" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="wenqiang-datastructure" options="-parameters" />
-      <module name="wenqiang-mybatis-framework-customer07" options="-parameters" />
-      <module name="wenqiang-mybatis-test" options="-parameters" />
-      <module name="wenqiang-springioc-framework-customer07" options="-parameters" />
-      <module name="wenqiang-springioc-test" options="-parameters" />
+      <module name="wenqiang-datastructure" options="" />
+      <module name="wenqiang-mybatis-framework-customer07" options="" />
+      <module name="wenqiang-mybatis-test" options="" />
+      <module name="wenqiang-springioc-framework-customer07" options="" />
+      <module name="wenqiang-springioc-test" options="" />
     </option>
   </component>
 </project>

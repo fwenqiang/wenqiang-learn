@@ -1,7 +1,6 @@
-package com.wq.mybatis.config;
-
-import com.wq.mybatis.domain.MappedStatement;
-import com.wq.mybatis.domain.SQLSource;
+package com.wq.mybatis.framework.config;
+import com.wq.mybatis.framework.domain.MappedStatement;
+import com.wq.mybatis.framework.domain.SQLSource;
 import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;

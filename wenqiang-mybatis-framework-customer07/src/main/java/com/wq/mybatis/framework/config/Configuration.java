@@ -1,10 +1,11 @@
-package com.wq.mybatis.config;
+package com.wq.mybatis.framework.config;
 
-import com.wq.mybatis.domain.MappedStatement;
+import com.wq.mybatis.framework.domain.MappedStatement;
 import org.apache.commons.dbcp.BasicDataSource;
 import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
+
 
 import java.io.InputStream;
 import java.util.HashMap;

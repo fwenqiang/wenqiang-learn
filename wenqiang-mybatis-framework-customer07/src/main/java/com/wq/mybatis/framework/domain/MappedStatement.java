@@ -1,4 +1,4 @@
-package com.wq.mybatis.domain;
+package com.wq.mybatis.framework.domain;
 
 public class MappedStatement {
     private String id;

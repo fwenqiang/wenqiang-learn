@@ -1,8 +1,8 @@
 package com.wq.mybatis.dao.impl;
-import com.wq.mybatis.factory.SqlSessionFactory;
 import com.wq.mybatis.dao.UserDao;
 import com.wq.mybatis.domain.User;
-import com.wq.mybatis.sqlsession.SqlSession;
+import com.wq.mybatis.framework.factory.SqlSessionFactory;
+import com.wq.mybatis.framework.sqlsession.SqlSession;
 
 public class UserDaoImpl implements UserDao {
 

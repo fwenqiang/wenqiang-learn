@@ -1,4 +1,4 @@
-package com.wq.mybatis.config;
+package com.wq.mybatis.framework.config;
 
 import org.apache.commons.dbcp.BasicDataSource;
 import org.dom4j.Element;

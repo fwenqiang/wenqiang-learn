@@ -1,4 +1,4 @@
-package com.wq.mybatis.domain;
+package com.wq.mybatis.framework.domain;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package com.wq.mybatis.sqlsession;
+package com.wq.mybatis.framework.sqlsession;
 
-import com.wq.mybatis.config.Configuration;
-import com.wq.mybatis.domain.MappedStatement;
+import com.wq.mybatis.framework.config.Configuration;
+import com.wq.mybatis.framework.domain.MappedStatement;
 
 import java.util.List;
 

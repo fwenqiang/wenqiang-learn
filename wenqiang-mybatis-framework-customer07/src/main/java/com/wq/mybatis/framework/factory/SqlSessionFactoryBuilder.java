@@ -1,6 +1,7 @@
-package com.wq.mybatis.factory;
+package com.wq.mybatis.framework.factory;
 
-import com.wq.mybatis.config.Configuration;
+
+import com.wq.mybatis.framework.config.Configuration;
 
 public class SqlSessionFactoryBuilder {
 

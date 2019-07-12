@@ -9,8 +9,12 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>wenqiang-datastructure</module>
         <module>wenqiang-design-patterns</module>
-        <module>wenqiang-collection</module>
+        <module>wenqiang-mybatis-framework-customer07</module>
+        <module>wenqiang-mybatis-test</module>
+        <module>wenqiang-springioc-framework-customer07</module>
+        <module>wenqiang-springioc-test</module>
     </modules>
 
 
@@ -28,5 +32,27 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <classifier>exec</classifier>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.2</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
