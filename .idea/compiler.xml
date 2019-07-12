@@ -7,13 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="wenqiang-mybatis-test" />
-        <module name="wenqiang-springioc-test" />
-        <module name="wenqiang-mybatis-framework-customer07" />
-        <module name="wenqiang-datastructure" />
-        <module name="wenqiang-springioc-framework-customer07" />
         <module name="wenqiang-collection" />
+        <module name="wenqiang-datastructure" />
         <module name="wenqiang-design-patterns" />
+        <module name="wenqiang-mybatis-framework-customer07" />
+        <module name="wenqiang-mybatis-test" />
+        <module name="wenqiang-springioc-framework-customer07" />
+        <module name="wenqiang-springioc-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

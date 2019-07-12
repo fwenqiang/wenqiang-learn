@@ -7,67 +7,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d300220c-e0a0-4a6b-bb1c-2953b384345f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/queue02/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/queue02/QueueStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/queue02/TestQueueStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/queue02/YangHui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/stack01/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/stack01/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/stack01/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/stack01/StackQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-datastructure/src/main/java/com/wq/datastructure/stack01/TurnCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/config/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/config/ConfigurationParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/config/MapperParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/domain/ParameterMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/domain/SQLBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/domain/SQLSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/factory/DefaultSessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/factory/SqlSessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/sqlsession/DefaultSqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/sqlsession/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/sqlsession/SimpleExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/sqlsession/SqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/resources/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/java/com/wq/mybatis/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/java/com/wq/mybatis/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/java/com/wq/mybatis/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/resources/userMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/BeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/ConstructorArg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/factory/AbstractBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/factory/DefaultListableBeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-test/src/main/java/com/wq/springioc/bean/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-test/src/main/java/com/wq/springioc/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenqiang-springioc-test/src/main/resources/bean.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/SqlSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/SqlSessionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/SqlSessionFactoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/factory/SqlSessionFactoryBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/config/Configuration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/config/XMLConfigParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/config/XMLMapperParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/entity/MappedStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/domain/MappedStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/impl/DefaultSqlSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/impl/DefaultSqlSessionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/src/main/java/com/wq/mybatis/utils/DocumentReaderUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/java/com/wq/mybatis/WenqiangMybatisTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/java/com/wq/mybatis/WenqiangMybatisTestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-test/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-test/src/test/java/com/wq/mybatis/WenqiangMybatisTestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/wenqiang-mybatis-test/src/test/java/com/wq/mybatis/WenqiangMybatisTestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-mybatis-framework/wenqiang-mybatis-framework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/resources/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/InitContexLoaderListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/controller/UserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/factory/BeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/util/ConnectorUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/commons-dbcp2-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/commons-pool2-2.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/dom4j-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/jaxen-1.1-beta-6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/login/failed.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/web/login/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet/wenqiang-servlet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/WEB-INF/src/com/wq/servlet/Init.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/WEB-INF/src/com/wq/servlet/controller/UserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/WEB-INF/src/com/wq/servlet/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/WEB-INF/src/com/wq/servlet/dao/impl/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/WEB-INF/src/com/wq/servlet/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/WEB-INF/src/com/wq/servlet/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/WEB-INF/src/com/wq/servlet/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wenqiang-servlet2/wenqiang-servlet2.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -91,144 +68,65 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1235407008">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Git file" value="1" />
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="wenqiang-learn" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wenqiang-springioc-test/src/main/resources/bean.xml">
+        <entry file="file://$PROJECT_DIR$/wenqiang-collection/src/main/java/com/wq/collection/collection/HashSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="31">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/factory/DefaultListableBeanFactory.java">
+        <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/test/java/com/wq/mybatis/WenqiangMybatisFrameworkCustomer07ApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3772#3773#0" expanded="true" />
-                <element signature="e#3844#3845#0" expanded="true" />
-                <element signature="e#3944#3945#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/config/Configuration.java">
+        <entry file="file://$PROJECT_DIR$/wenqiang-collection/src/main/java/com/wq/collection/collection/TreeSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="28" column="86" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="86" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-test/src/test/java/com/wq/mybatis/WenqiangMybatisTestApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wenqiang-springioc-test/src/test/java/com/wq/springioc/WenqiangSpringiocTestApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="54" column="21" selection-start-line="50" selection-start-column="7" selection-end-line="54" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/BeanDefinition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#906#907#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/Property.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-              <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/wenqiang-collection/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -310,6 +208,12 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -346,8 +250,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="554" />
-    <option name="y" value="68" />
+    <option name="x" value="99" />
+    <option name="y" value="72" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
@@ -431,7 +335,15 @@
             <path>
               <item name="wenqiang-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="wenqiang-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="wenqiang-springioc-test" type="462c0819:PsiDirectoryNode" />
+              <item name="wenqiang-springioc-framework-customer07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenqiang-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenqiang-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="wenqiang-springioc-framework-customer07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -449,7 +361,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561789856412" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562911150553" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -544,7 +456,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.wq.springioc" />
       <option name="MAIN_CLASS_NAME" value="com.wq.springioc.WenqiangSpringiocTestApplicationTests" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -622,11 +533,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_wenqiang-learn" />
       </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="57610" />
       </RunnerSettings>
@@ -717,11 +628,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MinStack" />
-      <item itemvalue="Application.Queue" />
-      <item itemvalue="Application.TestQueueStack" />
-      <item itemvalue="JUnit.WenqiangSpringiocTestApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.WenqiangSpringiocTestApplicationTests" />
       <item itemvalue="Spring Boot.WenqiangMybatisTestApplication" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.WenqiangMybatisFrameworkCustomer07Application" />
@@ -729,6 +635,11 @@
       <item itemvalue="Spring Boot.WenqiangSpringiocTestApplication" />
       <item itemvalue="Spring Boot.WenqiangSpringiocFrameworkCustomer07Application" />
       <item itemvalue="Tomcat Server.tomcat" />
+      <item itemvalue="Application.MinStack" />
+      <item itemvalue="Application.Queue" />
+      <item itemvalue="Application.TestQueueStack" />
+      <item itemvalue="JUnit.WenqiangSpringiocTestApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.WenqiangSpringiocTestApplicationTests" />
     </list>
     <recent_temporary>
       <list>
@@ -782,6 +693,8 @@
       <workItem from="1562416198420" duration="18629000" />
       <workItem from="1562541577766" duration="27577000" />
       <workItem from="1562745964808" duration="5354000" />
+      <workItem from="1562814402465" duration="1483000" />
+      <workItem from="1562910864023" duration="256000" />
     </task>
     <servers />
   </component>
@@ -818,7 +731,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157937000" />
+    <option name="totallyTimeSpent" value="159676000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -830,10 +743,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5801217" visible="true" weight="0.20522387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5801217" visible="true" weight="0.2825465" />
       <window_info id="Structure" order="1" sideWeight="0.4198783" side_tool="true" weight="0.23454158" />
       <window_info id="Web" order="2" sideWeight="0.4194978" side_tool="true" weight="0.23454158" />
       <window_info id="Image Layers" order="3" />
@@ -852,7 +764,7 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.9291045" weight="0.2646421" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.9291045" visible="true" weight="0.47554347" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.07409382" side_tool="true" weight="0.31561822" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
@@ -875,6 +787,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1051,60 +966,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/config/ConfigurationParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/config/MapperParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="51" column="53" selection-start-line="51" selection-start-column="53" selection-end-line="51" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/domain/MappedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/domain/ParameterMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/domain/SQLBound.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/factory/SqlSessionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1123,11 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1135,9 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="25" column="33" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1145,9 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1256,12 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="70" column="37" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="37" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#1082#1083#0" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1293,59 +1137,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="139" column="29" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="29" />
-          <folding>
-            <element signature="e#4697#4698#0" expanded="true" />
-            <element signature="e#4742#4743#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/TreeSet.java" />
     <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-test/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="4432" column="35" lean-forward="true" selection-start-line="4432" selection-start-column="35" selection-end-line="4432" selection-end-column="35" />
-          <folding>
-            <element signature="e#175623#175624#0" expanded="true" />
-            <element signature="e#175669#175670#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="646" column="16" selection-start-line="646" selection-start-column="16" selection-end-line="646" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collections.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/stream/Stream.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wenqiang-springioc-test/src/main/java/com/wq/springioc/bean/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1353,15 +1165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
-          <folding>
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1379,11 +1182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1393,7 +1191,6 @@
           <caret line="34" column="63" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="63" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/factory/AbstractBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1406,131 +1203,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/BeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#906#907#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/Property.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/config/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="28" column="86" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wenqiang-springioc-test/src/main/resources/bean.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="150">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/main/java/com/wq/mybatis/config/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="86" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="86" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="225">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-test/src/test/java/com/wq/mybatis/WenqiangMybatisTestApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="165">
           <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="54" column="21" selection-start-line="50" selection-start-column="7" selection-end-line="54" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wenqiang-springioc-test/src/test/java/com/wq/springioc/WenqiangSpringiocTestApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="21" selection-start-line="50" selection-start-column="7" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/bean/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wenqiang-springioc-framework-customer07/src/main/java/com/wq/springioc/framework/factory/DefaultListableBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="104">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3745#3746#0" expanded="true" />
             <element signature="e#3772#3773#0" expanded="true" />
+            <element signature="e#3810#3811#0" expanded="true" />
             <element signature="e#3844#3845#0" expanded="true" />
+            <element signature="e#3898#3899#0" expanded="true" />
             <element signature="e#3944#3945#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-collection/src/main/java/com/wq/collection/collection/HashSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-collection/src/main/java/com/wq/collection/collection/TreeSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-collection/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-servlet/src/com/wq/servlet/controller/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenqiang-mybatis-framework-customer07/src/test/java/com/wq/mybatis/WenqiangMybatisFrameworkCustomer07ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>

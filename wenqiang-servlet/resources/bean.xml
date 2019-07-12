@@ -1,4 +1,0 @@
-<beans>
-    <bean id="userService" class="com.wq.servlet.service.impl.UserServiceImpl"></bean>
-    <bean id="userDao" class="com.wq.servlet.dao.impl.UserDaoImpl"></bean>
-</beans>
